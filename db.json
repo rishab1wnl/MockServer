@@ -1,27 +1,6 @@
 {
   "login": [
     {
-      "fullname": "Rishab ",
-      "email": "iamrishabtiwari@gmail.com",
-      "mobile": 8249394536,
-      "password": "123456",
-      "id": 1
-    },
-    {
-      "fullname": "Hello ",
-      "email": "iamrishabtiwari@gmail.com",
-      "mobile": 9799296488,
-      "password": "12345678",
-      "id": 2
-    },
-    {
-      "fullname": "rishab",
-      "email": "rishab123@gmail.com",
-      "mobile": 378743434,
-      "password": "1234567",
-      "id": 3
-    },
-    {
       "fullname": "newboiiii",
       "email": "new123@gmail.com",
       "mobile": 213123123,
